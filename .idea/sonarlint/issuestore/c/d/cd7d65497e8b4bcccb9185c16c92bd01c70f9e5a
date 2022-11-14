@@ -1,0 +1,30 @@
+
+c
+java:S1192:"HDefine a constant instead of duplicating this literal " Hora: " 3 times.(³¼¾Ûþÿÿÿÿ
+d
+java:S1192:"IDefine a constant instead of duplicating this literal " Fecha: " 3 times.(³¼¾Ûþÿÿÿÿ
+E
+java:S5411l"*Use the primitive boolean expression here.(Œ½Ôˆþÿÿÿÿ
+Y
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ÞÉìÁ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÂòÑ¦
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š¨Óèûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤ŽÄ¢ùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ó­Œ›üÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¦õ¶ï
+H
+java:S6126-"2Replace this String concatenation with Text block.(¦õ¶ï
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ˆÌ©Åùÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ÆñúÅ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Øð±©
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(Æ’Úøøÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ËÃÜ–øÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(Š¨Óèûÿÿÿÿ
+M	java:S106c"9Replace this use of System.out or System.err by a logger.(ÿ·Á
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(ËÁÛé
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(ü¯šª
