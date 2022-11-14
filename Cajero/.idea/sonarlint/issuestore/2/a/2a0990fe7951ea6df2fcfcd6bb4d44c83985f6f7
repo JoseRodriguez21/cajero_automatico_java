@@ -1,0 +1,30 @@
+
+c
+java:S1192:"HDefine a constant instead of duplicating this literal " Hora: " 3 times.(³¼¾Ûşÿÿÿÿ
+d
+java:S1192:"IDefine a constant instead of duplicating this literal " Fecha: " 3 times.(³¼¾Ûşÿÿÿÿ
+E
+java:S5411l"*Use the primitive boolean expression here.(Œ½Ôˆşÿÿÿÿ
+`
+java:S2583"CChange this condition so that it does not always evaluate to "true"(ŞÉìÁ8ûôÍ¼0
+S	java:S106"9Replace this use of System.out or System.err by a logger.(°×çÆûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Š¨Óèûÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(¤Ä¢ùÿÿÿÿ
+S	java:S106 "9Replace this use of System.out or System.err by a logger.(Ó­Œ›üÿÿÿÿ
+N	java:S106-"9Replace this use of System.out or System.err by a logger.(¦õ¶ï
+S	java:S106/"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S1068"9Replace this use of System.out or System.err by a logger.(ˆÌ©Åùÿÿÿÿ
+S	java:S106="9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106C"9Replace this use of System.out or System.err by a logger.(ÆñúÅ
+N	java:S106D"9Replace this use of System.out or System.err by a logger.(Øğ±©
+S	java:S106I"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106L"9Replace this use of System.out or System.err by a logger.(Æ’Úøøÿÿÿÿ
+S	java:S106P"9Replace this use of System.out or System.err by a logger.(ËÃÜ–øÿÿÿÿ
+S	java:S106R"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+S	java:S106T"9Replace this use of System.out or System.err by a logger.(Š¨Óèûÿÿÿÿ
+H
+java:S1905b"&Remove this unnecessary cast to "int".(ˆ£ŠÂüÿÿÿÿ8ªãÇÍ¼0
+M	java:S106c"9Replace this use of System.out or System.err by a logger.(ÿ·Á
+S	java:S106h"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ
+N	java:S106j"9Replace this use of System.out or System.err by a logger.(ËÁÛé
+N	java:S106n"9Replace this use of System.out or System.err by a logger.(ü¯šª
